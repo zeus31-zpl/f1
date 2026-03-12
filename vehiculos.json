@@ -5782,7 +5782,664 @@
     "Column10": "ROBO",
     "Column11": "VIGENTE"
   },
-  {
+   {
+  "FECHA": "ENERO",
+  "DOMINIO": "EEN-107",
+  "MARCA": "CHEVROLET",
+  "MODELO": "S-10",
+  "COLOR": "GRIS",
+  "N° DE MOTOR": 40704133385,
+  "N° DE CHASIS": "9BG138AC03C423795",
+  "CRIA": "18ø",
+  "DELITO": "TARDE",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": " AD146VW",
+  "MARCA": "FIAT",
+  "MODELO": "CRONOS",
+  "COLOR": "GRIS",
+  "N° DE MOTOR": 552804903270020,
+  "N° DE CHASIS": "8AP359A49KU025495",
+  "CRIA": "2ø",
+  "DELITO": "TARDE",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "JLW-116",
+  "MARCA": "WOLKSWAGEN",
+  "MODELO": "AMAROK",
+  "COLOR": "BLANCO",
+  "N° DE MOTOR": "CDC014692",
+  "N° DE CHASIS": "8AWDB42HXBA012703",
+  "CRIA": "49§",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "MQL-546",
+  "MARCA": "PEUGEOT",
+  "MODELO": "308 SPORT",
+  "N° DE MOTOR": "10FJBZ1789519",
+  "N° DE CHASIS": "8ADA4C5FMJEG013417",
+  "CRIA": "U.F.D.E",
+  "Column10": "EJEC. VARIA",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "PKL-821",
+  "MARCA": "VOLKSWAGEN",
+  "MODELO": "AMAROCK",
+  "COLOR": "GRIS",
+  "N° DE MOTOR": "CNE083845",
+  "N° DE CHASIS": "8AWDB42H5GA020523",
+  "CRIA": "21ø",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "AB376LU",
+  "MARCA": "VOLKSWAGEN",
+  "MODELO": "VOYAGE",
+  "COLOR": "GRIS",
+  "N° DE MOTOR": "CFZS09879",
+  "N° DE CHASIS": "9BWDB45U0HT087705",
+  "CRIA": "19§",
+  "DELITO": "NOCHE",
+  "Column10": "HURTO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "AF121RQ",
+  "MARCA": "FIAT",
+  "MODELO": "STRADA",
+  "COLOR": "GRIS",
+  "N° DE MOTOR": 552820597980872,
+  "N° DE CHASIS": "9BD281D43NYW64632",
+  "CRIA": "52ø",
+  "DELITO": "MA¥ANA",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "NNQ-385",
+  "MARCA": "CHEVROLET",
+  "MODELO": "ONIX",
+  "COLOR": "BLANCO",
+  "N° DE MOTOR": "CGZ016616",
+  "N° DE CHASIS": "9BGKS48T0EG174929",
+  "CRIA": "1§",
+  "DELITO": "NOCHE",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "JJO-485",
+  "MARCA": "FIAT",
+  "MODELO": "FIORINO",
+  "COLOR": "BLANCO",
+  "N° DE MOTOR": "178E80119784954",
+  "N° DE CHASIS": "9BD25521AB8900338",
+  "CRIA": "21ø",
+  "DELITO": "NOCHE",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "A090BQO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "AF121RU",
+  "MARCA": "RENAULT",
+  "MODELO": "STEPWAY",
+  "COLOR": "GRIS",
+  "N° DE MOTOR": "H4MJ759Q100220",
+  "N° DE CHASIS": "8A15SRYEGNL153129",
+  "CRIA": "7ø",
+  "DELITO": "TARDE",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "AF849IF",
+  "MARCA": "PEUGEOT",
+  "MODELO": 208,
+  "COLOR": "GRIS",
+  "N° DE MOTOR": "10PRAQ0017463",
+  "N° DE CHASIS": "8ADUWNFPVPG569759",
+  "CRIA": "2ø",
+  "DELITO": "TARDE",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "IBA-091",
+  "MARCA": "NISSAN",
+  "MODELO": "TEANA 350",
+  "COLOR": "GRIS",
+  "N° DE MOTOR": "VQ35316624C",
+  "N° DE CHASIS": "JN1BAUJ329W000125",
+  "CRIA": "2¦",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "ENERO",
+  "DOMINIO": "IUB-104",
+  "MARCA": "VOLKSWAGEN",
+  "MODELO": "FOX 1.6",
+  "COLOR": "NEGRO",
+  "N° DE MOTOR": "CFZ747250",
+  "N° DE CHASIS": "9BWAB45Z2A4127104",
+  "CRIA": "4¦",
+  "DELITO": "TARDE",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "FECHA": "FEBRERO",
+  "DOMINIO": "MZV-435",
+  "MARCA": "CHEVROLET",
+  "MODELO": "SPIN",
+  "COLOR": "VERDE OSCURO",
+  "N° DE MOTOR": "BK4010849",
+  "N° DE CHASIS": "9BGJB7560EB109225",
+  "CRIA": "18°",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "EEN-107",
+  "MODELO": "CHEVROLET",
+  "COLOR": "S-10",
+  "N° DE MOTOR": "40704133385",
+  "N° DE CHASIS": "9BG138AC03C423795",
+  "CRIA": "2°",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": " AD146VW",
+  "MODELO": "FIAT",
+  "COLOR": "CRONOS",
+  "N° DE MOTOR": "552804903270020",
+  "N° DE CHASIS": "8AP359A49KU025495",
+  "CRIA": "49º",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "JLW-116",
+  "MODELO": "WOLKSWAGEN",
+  "COLOR": "AMAROK",
+  "N° DE MOTOR": "CDC014692",
+  "N° DE CHASIS": "8AWDB42HXBA012703",
+  "CRIA": "U.F.D.E",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "MQL-546",
+  "MODELO": "PEUGEOT",
+  "COLOR": "308 SPORT",
+  "N° DE MOTOR": "10FJBZ1789519",
+  "N° DE CHASIS": "8ADA4C5FMJEG013417",
+  "CRIA": "21°",
+  "Column10": "EJEC. VARIA",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "PKL-821",
+  "MODELO": "VOLKSWAGEN",
+  "COLOR": "AMAROCK",
+  "N° DE MOTOR": "CNE083845",
+  "N° DE CHASIS": "8AWDB42H5GA020523",
+  "CRIA": "19º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "AB376LU",
+  "MODELO": "VOLKSWAGEN",
+  "COLOR": "VOYAGE",
+  "N° DE MOTOR": "CFZS09879",
+  "N° DE CHASIS": "9BWDB45U0HT087705",
+  "CRIA": "52°",
+  "Column10": "HURTO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "AF121RQ",
+  "MODELO": "FIAT",
+  "COLOR": "STRADA",
+  "N° DE MOTOR": "552820597980872",
+  "N° DE CHASIS": "9BD281D43NYW64632",
+  "CRIA": "1º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "NNQ-385",
+  "MODELO": "CHEVROLET",
+  "COLOR": "ONIX",
+  "N° DE MOTOR": "CGZ016616",
+  "N° DE CHASIS": "9BGKS48T0EG174929",
+  "CRIA": "21°",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "JJO-485",
+  "MODELO": "FIAT",
+  "COLOR": "FIORINO",
+  "N° DE MOTOR": "178E80119784954",
+  "N° DE CHASIS": "9BD25521AB8900338",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "A090BQO",
+  "CRIA": "7°",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "AF121RU",
+  "MODELO": "RENAULT",
+  "COLOR": "STEPWAY",
+  "N° DE MOTOR": "H4MJ759Q100220",
+  "N° DE CHASIS": "8A15SRYEGNL153129",
+  "CRIA": "2°",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "AF849IF",
+  "MODELO": "PEUGEOT",
+  "COLOR": "208",
+  "N° DE MOTOR": "10PRAQ0017463",
+  "N° DE CHASIS": "8ADUWNFPVPG569759",
+  "CRIA": "2ª",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "IBA-091",
+  "MODELO": "NISSAN",
+  "COLOR": "TEANA 350",
+  "N° DE MOTOR": "VQ35316624C",
+  "N° DE CHASIS": "JN1BAUJ329W000125",
+  "CRIA": "4ª",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "ENERO",
+  "MARCA": "IUB-104",
+  "MODELO": "VOLKSWAGEN",
+  "COLOR": "FOX 1.6",
+  "N° DE MOTOR": "CFZ747250",
+  "N° DE CHASIS": "9BWAB45Z2A4127104",
+  "CRIA": "41º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "MZV-435",
+  "MODELO": "CHEVROLET",
+  "COLOR": "SPIN",
+  "N° DE MOTOR": "BK4010849",
+  "N° DE CHASIS": "9BGJB7560EB109225",
+  "CRIA": "1º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "HZL-348",
+  "MODELO": "MII",
+  "COLOR": "COOPER S",
+  "N° DE MOTOR": "B061I341N14B16AB",
+  "N° DE CHASIS": "WMWMF71049TS27014",
+  "CRIA": "46º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "JRW-149",
+  "MODELO": "RENAULT",
+  "COLOR": "KANGOO",
+  "N° DE MOTOR": "K9KA700D181062",
+  "N° DE CHASIS": "8A1FCG715BL664575",
+  "CRIA": "1º",
+  "Column10": "HURTO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "NUO-553",
+  "MODELO": "RENAULT",
+  "COLOR": "CLIO",
+  "N° DE MOTOR": "D4FG728Q181689",
+  "N° DE CHASIS": "8A1BB2U01EL320006",
+  "CRIA": "21º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "IWQ-290",
+  "MODELO": "CHEVROLET",
+  "COLOR": "AGILE",
+  "N° DE MOTOR": "U65008233",
+  "N° DE CHASIS": "8AGCA4850BR105271",
+  "CRIA": "F.D.E.",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "AG864OH",
+  "MODELO": "TOYOTA",
+  "COLOR": "SW 4",
+  "N° DE MOTOR": "1GDJ010251",
+  "N° DE CHASIS": "8AJBA3FS2S0372117",
+  "CRIA": "DPTO DEL. ECON.",
+  "Column10": "TIRBACION POSESION",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "KKS-639",
+  "MODELO": "VOLKSWAGEN",
+  "COLOR": "PASSAT CC 2.0 TSI",
+  "N° DE MOTOR": "CCZ155219",
+  "N° DE CHASIS": "WVWBB63C7BE758435",
+  "CRIA": "1º",
+  "Column10": "ESTAFA",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "AG644LS",
+  "MODELO": "TOYOTA",
+  "COLOR": "COROLLA CROSS",
+  "N° DE MOTOR": "M20AAD68558",
+  "N° DE CHASIS": "9BRK4AAGXS0142379",
+  "CRIA": "1º",
+  "Column10": "ROBO CALIFICADO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "AG644KR",
+  "MODELO": "FIAT",
+  "COLOR": "STRADA ULTRA T200 CVT",
+  "N° DE MOTOR": "463564180585812",
+  "N° DE CHASIS": "9BD281DMXRYF23728",
+  "CRIA": "CRIA. 7º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "AH418RP",
+  "MODELO": "VOLKWAGEN",
+  "COLOR": "AMAROK",
+  "N° DE MOTOR": "CNE 141313",
+  "N° DE CHASIS": "8AWJB62HXSA029774",
+  "CRIA": "4º",
+  "Column10": "HURTO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "OUC-005",
+  "MODELO": "FIAT",
+  "COLOR": "SIENA",
+  "N° DE MOTOR": "178F40552679325",
+  "N° DE CHASIS": "9BD197366F3219755",
+  "CRIA": "5°",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "AE065QG",
+  "MODELO": "TOYOTA",
+  "COLOR": "RAV 4",
+  "N° DE MOTOR": "A25AR216865",
+  "N° DE CHASIS": "JTMY23FV3LD504797",
+  "CRIA": "5°",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "AH519CX",
+  "MODELO": "CITROEN",
+  "COLOR": "BASALT",
+  "N° DE MOTOR": "463556700965133",
+  "N° DE CHASIS": "935CPFC67TB505034",
+  "CRIA": "2º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "AD626WV",
+  "MODELO": "FIAT",
+  "COLOR": "STRADA",
+  "N° DE MOTOR": "178F40553323732",
+  "N° DE CHASIS": "9BD578978KY257224",
+  "CRIA": "20°",
+  "Column10": "HURTO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "JEM-440",
+  "MODELO": "CITROEN",
+  "COLOR": "BERLINGO",
+  "N° DE MOTOR": "10dg080011507",
+  "N° DE CHASIS": "8BCGJN6ACBG518004",
+  "CRIA": "2°",
+  "Column10": "HURTO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "CHP-526",
+  "MODELO": "DAEWO",
+  "COLOR": "DAMAS VAN",
+  "N° DE MOTOR": "F8CB600743",
+  "N° DE CHASIS": "KLY7T11ZBVC033696",
+  "CRIA": "14°",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "BXW-274",
+  "MODELO": "MITSUBISHI",
+  "COLOR": "L300",
+  "N° DE MOTOR": "4D56JB3518",
+  "N° DE CHASIS": "JMYJNP15VWA004853",
+  "CRIA": "18º",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "ARX-471",
+  "MODELO": "VOLKSWAGEN",
+  "COLOR": "GOL GLI",
+  "N° DE MOTOR": "UNC101855",
+  "N° DE CHASIS": "8AWZZZ377TA801019",
+  "CRIA": "41°",
+  "Column10": "ROBO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "KSD-277",
+  "MODELO": "CHEVROLET",
+  "COLOR": "AVEO",
+  "N° DE MOTOR": "F16D39163291",
+  "N° DE CHASIS": "3G1TC5CF4BL154842",
+  "CRIA": "1°",
+  "Column10": "ESTAFA",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "PDQ-058",
+  "MODELO": "TOYOTA",
+  "COLOR": "COROLLA",
+  "N° DE MOTOR": "2ZRM326532",
+  "N° DE CHASIS": "9BRBUWHE2G0040955",
+  "CRIA": "3°",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "FEBRERO",
+  "MARCA": "GRT-827",
+  "MODELO": "FIAT",
+  "COLOR": "PUNTO",
+  "N° DE MOTOR": "J30324234",
+  "N° DE CHASIS": "9BD11833781002551",
+  "CRIA": "3°",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "MARZO",
+  "MARCA": "PCJ682",
+  "MODELO": "VOLKSWAGEN",
+  "COLOR": "UP",
+  "N° DE MOTOR": "CWR018521",
+  "N° DE CHASIS": "9BWAG4124GT509899",
+  "CRIA": "2°",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "MARZO",
+  "MARCA": "DMR531",
+  "MODELO": "VOLKSWAGEN",
+  "COLOR": "POLO",
+  "N° DE MOTOR": "1Y636773",
+  "N° DE CHASIS": "8AWZZZ9EZYA522526",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "MARZO",
+  "MARCA": "LUF507",
+  "MODELO": "FORD",
+  "COLOR": "RANGER2 DC 4X2 XL 2.5L N",
+  "N° DE MOTOR": "EV2D CJ035967",
+  "N° DE CHASIS": "8AFAR22D3CJ035967",
+  "CRIA": "44º",
+  "Column10": "ESTAFA",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "MARZO",
+  "MARCA": "KFZ-756",
+  "MODELO": "CHEVROLET",
+  "COLOR": "CLASSIC",
+  "N° DE MOTOR": "T80017100",
+  "N° DE CHASIS": "9BGSS1950BC241275",
+  "CRIA": "1°",
+  "Column10": "ROBO CALIFICADO",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "MARZO",
+  "MARCA": "EPD-381",
+  "MODELO": "CHEVROLET",
+  "COLOR": "CORA CALSSIC",
+  "N° DE MOTOR": "7H5020997",
+  "N° DE CHASIS": "8AGSB19N05R106582",
+  "Column11": "VIGENTE"
+ },
+ {
+  "DOMINIO": "febrero",
+  "MARCA": "A279IVV",
+  "MODELO": "HONDA",
+  "COLOR": "WAVE 110"
+ },
+ {
+  "MARCA": "959KZY",
+  "MODELO": "HONDA",
+  "COLOR": "CG150TITAN",
+  "N° DE MOTOR": "KC08E2E755203",
+  "N° DE CHASIS": "8CHKC0830EP008803"
+ },
+ {
+  "MARCA": "A254YMY",
+  "MODELO": "HONDA",
+  "COLOR": "xr150"
+ },
+ {
+  "MARCA": "a261jag ",
+  "MODELO": "HONDA",
+  "COLOR": "XR190"
+ },
+ {
+  "COLOR": "XR ",
+  "N° DE MOTOR": "KD07E2506723"
+ },
+ {
+  "MARCA": "AO451BP",
+  "MODELO": "YAMAHA",
+  "COLOR": "T110",
+  "N° DE MOTOR": "E3L6E-287695",
+  "N° DE CHASIS": "8C6KE1970H0038175"
+ },
+ {
+  "MARCA": "A279JAY",
+  "MODELO": "GILERA",
+  "COLOR": "VOGE 300DS",
+  "N° DE MOTOR": "LC178MN*184589Q4*",
+  "N° DE CHASIS": "8CXG300DSSN003774"
+ },
+ {
+  "MARCA": "AG477VP",
+  "MODELO": "PEUGEOT",
+  "COLOR": 208,
+  "N° DE MOTOR": "10PRAP0027616",
+  "N° DE CHASIS": "8ADUWNFPARG569570"
+ },
+ {
+  "MODELO": "morini",
+  "COLOR": "007-x-cape1200",
+  "N° DE MOTOR": "mm2v107myls3900324",
+  "N° DE CHASIS": "hl4pu3ab5tz000233"
+ },
+ {
+  "MARCA": "A277JZL",
+  "MODELO": "HONDA",
+  "COLOR": "WAVE 110"
+ },
+ {
     "FECHA": "FEBRERO",
     "DOMINIO": "MZV-435",
     "MARCA": "CHEVROLET",
